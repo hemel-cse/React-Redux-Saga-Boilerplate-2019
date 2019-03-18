@@ -1,4 +1,4 @@
-# Create-React-App-Redux-Saga-Logger-Router-Boilerplate-October-2018
+# Create-React-App-Redux-Saga-Logger-Router-Boilerplate
 ### React, React Router Dom, Redux, Redux Saga, Redux Logger
 
 
